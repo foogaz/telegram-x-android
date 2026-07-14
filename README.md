@@ -1,12 +1,12 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Telegram X Android](http://play.google.com/store/apps/details?id=org.thunderdog.challegram)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Telegram X Android](http://play.google.com/store/apps/details?id=org.thunderdog.challegram).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/telegram-x-android](https://draculatheme.com/telegram-x-android).
 
 ## Team
 
