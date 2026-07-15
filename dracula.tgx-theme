@@ -1,0 +1,57 @@
+!
+name: "dracula"
+time: 1234567890
+@
+bubbleCorner: 16
+bubbleCornerMerged: 8
+bubbleDateCorner, dateCorner: 12
+bubbleUnreadShadow, lightStatusBar, wallpaperOverrideButton, wallpaperOverrideDate, wallpaperOverrideMediaReply, wallpaperOverrideOverlay, wallpaperOverrideTime, wallpaperOverrideUnread: 0
+imageCorner: 4
+parentTheme: 2
+replaceShadowsWithSeparators: 1
+#
+attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, avatarInactive, avatarInactive_big, badgeMuted, badgeText, bubbleIn_background, bubbleIn_separator, bubbleOut_background, chatKeyboardButton, fileAttach, fillingPressed, headerBackground, headerLightBackground, inlineContentActive, inputInactive, introSection, iv_preBlockBackground, iv_separator, iv_textCodeBackground, messageSwipeBackground, notification, notificationPlayer, playerCoverPlaceholder, shareSeparator, themeWhiteBlack, unread: #44475A
+attachText, badge, badgeFailedText, badgeMutedText, bubble_buttonText, bubble_buttonText_noWallpaper, bubble_dateText, bubble_dateText_noWallpaper, bubble_mediaOverlayText, bubble_mediaReplyText, bubble_mediaReplyText_noWallpaper, bubble_mediaTimeText, bubble_mediaTimeText_noWallpaper, bubble_overlayText, bubble_overlayText_noWallpaper, bubble_unreadText, bubble_unreadText_noWallpaper, bubbleIn_fillingActiveContent, bubbleIn_fillingPositive, bubbleIn_fillingPositive_overlay, bubbleIn_text, bubbleOut_chatCorrectChosenFilling, bubbleOut_chatCorrectFilling, bubbleOut_chatNegativeFillingContent, bubbleOut_fileContent, bubbleOut_fillingActiveContent, bubbleOut_fillingPositive, bubbleOut_fillingPositive_overlay, bubbleOut_inlineIcon, bubbleOut_inlineOutline, bubbleOut_inlineText, bubbleOut_text, bubbleOut_ticks, chatListAction, chatSendButton, circleButtonActive, circleButtonChatIcon, circleButtonOverlayIcon, circleButtonRegularIcon, circleButtonThemeIcon, controlActive, fileContent, fillingPositive, headerBadge, headerButtonIcon, headerIcon, headerLightIcon, headerLightText, headerTabActive, headerTabActiveText, headerText, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, iv_blockQuoteLine, iv_header, iv_pageTitle, iv_text, iv_textCode, iv_textMarked, iv_textReference, ledWhite, messageCorrectChosenFilling, messageCorrectFilling, messageSwipeContent, online, passcodeIcon, passcodeText, playerButton, profileSectionActive, profileSectionActiveContent, progress, snackbarUpdateAction, snackbarUpdateText, statusBarContent, statusBarLegacyContent, text, textNeutral, themeBlackWhite, ticks, togglerActive, togglerNegativeContent, unreadText, videoSliderActive, white: #F8F8F2
+avatar_content, background, black, bubble_chatSeparator, bubbleIn_fillingActive, bubbleIn_fillingPositiveContent, bubbleIn_fillingPositiveContent_overlay, bubbleOut_chatCorrectChosenFillingContent, bubbleOut_chatCorrectFillingContent, bubbleOut_chatNeutralFillingContent, bubbleOut_fillingActive, bubbleOut_fillingPositiveContent, bubbleOut_fillingPositiveContent_overlay, bubbleOut_outline, bubbleOut_waveformInactive, chatBackground, chatKeyboard, chatSeparator, checkContent, circleButtonActiveIcon, circleButtonNegativeIcon, circleButtonNewChannelIcon, circleButtonNewChatIcon, circleButtonNewGroupIcon, circleButtonNewSecretIcon, circleButtonPositiveIcon, controlContent, filling, fillingPositiveContent, headerBarCallMuted, iv_chatLinkBackground, ivHeader, messageCorrectChosenFillingContent, messageCorrectFillingContent, messageNegativeLineContent, messageNeutralFillingContent, overlayFilling, passcode, promoContent, seekEmpty, snackbarUpdate, themeNightBlack, togglerPositiveContent: #282A36
+avatarArchive, avatarReplies, avatarReplies_big, avatarSavedMessages, avatarSavedMessages_big, background_icon, background_text, background_textLight, bubbleIn_progress, bubbleOut_file, bubbleOut_progress, bubbleOut_separator, chatListMute, circleButtonChat, circleButtonRegular, circleButtonTheme, controlInactive, file, headerBadgeMuted, headerBarCallActive, headerButton, icon, iconLight, iv_caption, iv_icon, iv_pageAuthor, iv_pageFooter, iv_pageSubtitle, iv_textCodeBackgroundPressed, ivHeaderIcon, ledBlue, lineInactive, nameInactive, playerCoverIcon, seekReady, sliderInactive, textPlaceholder, themeNightBlue, togglerInactive, waveformInactive: #6272A4
+avatarArchivePinned, bubbleIn_time, bubbleOut_time, caption_textLink, togglerActiveBackground: #F8F8F288
+avatarBlue, avatarBlue_big, avatarCyan, avatarCyan_big, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_messageAuthor, bubbleOut_textLink, chatListVerify, confettiBlue, confettiCyan, iv_textLink, iv_textMarkedLink, ledCyan, lineCyan, messageAuthor, messageVerticalLine, nameBlue, nameCyan, notificationLink, textLink, themeBlue, themeClassic, themeCyan: #8BE9FD
+avatarGreen, avatarGreen_big, bubbleIn_outline, bubbleOut_messageAuthorPsa, bubbleOut_ticksRead, circleButtonNewSecret, circleButtonPositive, confettiGreen, fileGreen, iconPositive, inputPositive, ledGreen, lineGreen, messageAuthorPsa, nameGreen, notificationSecure, textSecure, themeGreen, ticksRead, togglerPositive: #50FA7B
+avatarOrange, avatarOrange_big, circleButtonNewGroup, fileYellow, ledOrange, lineOrange, nameOrange, themeOrange: #FFB86C
+avatarPink, avatarPink_big, bubble_messageCheckOutline, checkActive, ledPink, linePink, namePink, playerButtonActive, themePink: #FF79C6
+avatarRed, avatarRed_big, badgeFailed, bubbleOut_chatNegativeFilling, circleButtonNegative, circleButtonNewChat, confettiRed, fileRed, fillingNegative, headerBadgeFailed, headerRemoveBackgroundHighlight, iconNegative, inputNegative, ledRed, lineRed, messageNegativeLine, nameRed, themeRed, togglerNegative: #F55
+avatarViolet, avatarViolet_big, bubbleOut_waveformActive, chatListIcon, confettiPurple, ledPurple, lineViolet, nameViolet, seekDone, sliderActive, textSearchQueryHighlight, waveformActive: #BD93F9
+avatarYellow, avatarYellow_big, circleButtonNewChannel, confettiYellow, ledYellow, lineYellow, nameYellow, promo: #F1FA8C
+bubble_button, bubble_buttonRipple, bubble_date, bubble_mediaOverlay, bubble_mediaReply, bubble_mediaTime, bubble_mediaTime_noWallpaper, bubble_overlay_noWallpaper, bubble_unread, spoilerMediaOverlay, statusBar: #282A3640
+bubble_chatBackground, drawer, drawerText, headerPickerBackground, headerPickerText, sectionedScrollBarActive: #282A3600
+bubble_messageCheckOutlineNoWallpaper: #FF79C688
+bubble_messageSelection, iv_textReferenceOutlinePressed: #F8F8F220
+bubble_messageSelectionNoWallpaper, caption_textLinkPressHighlight: #F8F8F21A
+bubble_overlay, bubble_unread_noWallpaper: #6272A440
+bubbleIn_pressed, bubbleOut_pressed: #282A3620
+bubbleIn_textLinkPressHighlight, bubbleOut_textLinkPressHighlight, iv_textLinkPressHighlight, iv_textMarkedLinkPressHighlight, textLinkPressHighlight: #8BE9FD40
+circleButtonOverlay: #0CAF20
+headerBarCallIncoming: #44475A88
+headerPlaceholder: #F8F8F210
+headerRemoveBackground, togglerNegativeBackground: #F558
+headerTabInactiveText: #F8F8F2CC
+iv_chatLinkOverlayBackground: #282A36AA
+iv_textMarkedBackground: #F1FA8C77
+iv_textReferenceBackground, messageSelection: #F8F8F22A
+iv_textReferenceOutline, videoSliderInactive: #F8F8F244
+placeholder: #F8F8F20C
+previewBackground, transparentEditor: #282A3670
+sectionedScrollBar: #282A3644
+sectionedScrollBarActiveContent: #282A3700
+separator: #12345600
+statusBarLegacy: #282A362C
+textNegative: #FF5556
+textSelectionHighlight: #F8F8F255
+togglerInactiveBackground: #6272A488
+togglerPositiveBackground: #50FA7B88
+wp_cats: #6272A466
+wp_catsBeige: #44475A66
+wp_catsGreen: #50FA7B66
+wp_catsOrange: #FFB86C66
+wp_catsPink: #FF79C666
+wp_circlesBlue: #8BE9FD66
