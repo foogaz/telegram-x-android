@@ -1,19 +1,8 @@
-### [Foobar](https://foobar.com)
+### [Telegram X Android](http://play.google.com/store/apps/details?id=org.thunderdog.challegram)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Download `dracula.tgx-theme` using the [GitHub](https://github.com/dracula/telegram-x-android/blob/main/dracula.tgx-theme)
+2. Send it to yourself in Telegram.
+3. Click on uploaded file and press `[Apply Theme]`.
+4. Boom! It's working ✨
