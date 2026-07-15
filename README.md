@@ -2,7 +2,7 @@
 
 > A dark theme for [Telegram X Android](http://play.google.com/store/apps/details?id=org.thunderdog.challegram).
 
-![Screenshot](./screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Install
 
